@@ -8,7 +8,7 @@ Tecnicatura Universitaria en Programación a Distancia · Universidad Tecnológi
 | **Integrante** | Juan Ignacio Villalba (Comisión 6). Trabajo individual. |
 | **Docente titular** | Prof. Gabriela Martínez |
 | **Docente tutor** | Raúl Alejandro Lencinas Berenguer |
-| **Tablero de gestión** | [GitHub Projects: backlog del TPI](ENLACE_TABLERO) |
+| **Tablero de gestión** | [GitHub Projects: backlog del TPI](https://github.com/users/juanivillalba43-debug/projects/1) |
 | **Documento final** | [TPI consolidado (Entregas 1 a 4)](docs/entregas/TPI_OE_Juan.Ignacio.Villalba_Final.pdf) |
 
 ---
